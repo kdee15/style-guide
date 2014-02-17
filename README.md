@@ -1,7 +1,7 @@
-style-guide
+Project Style Guide
 ===========
 
-Front end code style guide I generally use.
+Below is a brief style guide that is useful when working on multi-person teams in the front end environment.
 
 ## File Structure Guidelines
 
