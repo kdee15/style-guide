@@ -7,8 +7,8 @@ Front end code style guide I generally use.
 
 Keep file structures in a consistent pattern for each project, allows all of us to just dive into a project and work. This is the current suggested pattern:
 
-* PROJECT ROOT
-⋅⋅* Assets
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
  
 
 - - -
